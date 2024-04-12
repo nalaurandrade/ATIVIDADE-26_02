@@ -1,0 +1,4 @@
+C:\Users\anala\source\repos\aula1\po 26-02\po 26-02\obj\Debug\po 26-02.csproj.AssemblyReference.cache
+C:\Users\anala\source\repos\aula1\po 26-02\po 26-02\obj\Debug\po 26-02.csproj.CoreCompileInputs.cache
+C:\Users\anala\source\repos\po 26-02\po 26-02\obj\Debug\po 26-02.csproj.AssemblyReference.cache
+C:\Users\anala\source\repos\po 26-02\po 26-02\obj\Debug\po 26-02.csproj.CoreCompileInputs.cache
